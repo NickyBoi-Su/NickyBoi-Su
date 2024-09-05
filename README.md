@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 This is Nick Su's personal page and I am a PhD student in Earth Sciences at Syracuse University.
+## I will be working on environmental data science and feel free to explore my projects 🔥🔥🔥
 
-<!--
-**NickyBoi-Su/NickyBoi-Su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is my [LinkedIn profile] (www.linkedin.com/in/jianfeng-su) 
 
-Here are some ideas to get you started:
+![image](https://github.com/user-attachments/assets/9d08b544-0013-49ea-807f-d0a573b44ff4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on : **Gas Well integrity assessment**
+- 🌱 I’m currently learning : **A lot of stuff**
+- 👯 I’m looking to collaborate on : **Undecided**
+- 📫 How to reach me: **jsu124@syr.edu**
+- 😄 Pronouns: He/Him/His
+
