@@ -2,7 +2,7 @@
 ## I am a PhD student in Earth Sciences at Syracuse University.
 ## I will be working on environmental data science and feel free to explore my projects 🔥🔥
 
-## This is my [LinkedIn profile] (www.linkedin.com/in/jianfeng-su) 
+## This is my [LinkedIn profile](https://www.linkedin.com/in/jianfeng-su)
 
 ![image](https://github.com/user-attachments/assets/9d08b544-0013-49ea-807f-d0a573b44ff4)
 
